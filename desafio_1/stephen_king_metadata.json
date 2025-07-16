@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "El visitante - Stephen King",
+    "archivo": "data/El visitante - Stephen King.pdf",
+    "num_caracteres": 1000020,
+    "num_palabras": 175368
+  },
+  {
+    "titulo": "Fin de guardia - Stephen King",
+    "archivo": "data/Fin de guardia - Stephen King.pdf",
+    "num_caracteres": 731770,
+    "num_palabras": 128323
+  },
+  {
+    "titulo": "Holly - Stephen King",
+    "archivo": "data/Holly - Stephen King.pdf",
+    "num_caracteres": 882615,
+    "num_palabras": 157563
+  },
+  {
+    "titulo": "Mr Mercedes - Stephen King",
+    "archivo": "data/Mr Mercedes - Stephen King.pdf",
+    "num_caracteres": 851392,
+    "num_palabras": 150535
+  },
+  {
+    "titulo": "Quien pierde paga - Stephen King",
+    "archivo": "data/Quien pierde paga - Stephen King.pdf",
+    "num_caracteres": 784435,
+    "num_palabras": 138061
+  }
+]
